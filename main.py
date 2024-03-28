@@ -1,5 +1,6 @@
 import numpy as np
-from cda import table
+# from cda import table
+# we import table from cda, in case of giving it as an argument to functions.
 
 
 # This function helps us find student with the most points
